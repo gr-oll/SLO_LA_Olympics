@@ -1,0 +1,147 @@
+﻿id,name,str_number,str_address,lon,lat,kind,units,people
+1,Warner Center Marriott,21825;21850,Califa Street;Oxnard Street,-118.6037343,34.1784799,hotel,478,956
+2,SLS Beverly Hills,,,-118.3769143,34.0700781,hotel,297,594
+3,Elan Hotel Los Angeles,,,-118.374519,34.0763355,hotel,49,98
+4,Inn at Venice Beach,,,-118.4641746,33.9809691,hotel,38,76
+5,The Rose Hotel,15,Rose Avenue,-118.480125,33.995153,apartments,38,76
+6,Value Inn,,,-118.304889,34.0984575,hotel,20,40
+7,Los Angeles Airport Marriott,5855,West Century Boulevard,-118.3848244,33.9466461,hotel,1004,2008
+8,Banana Bungalow Hollywood,5920,Hollywood Boulevard,-118.3189013,34.1012988,hotel,7,14
+9,L.A. Sky Boutique Hotel,2352,Westwood Boulevard,-118.4292586,34.0414091,hotel,28,56
+10,Luxe Sunset Boulevard Hotel,11461,Sunset Boulevard,-118.4686,34.0726097,hotel,160,320
+11,Beverly Hills Plaza Hotel,10300,Wilshire Boulevard,-118.4258105,34.0674515,hotel,103,206
+12,Days Inn Hollywood/Universal Studios,7023,West Sunset Boulevard,-118.3422827,34.0983685,hotel,74,148
+13,Hollywood Roosevelt Hotel,7000,Hollywood Boulevard,-118.3421889,34.1009297,hotel,300,600
+14,Four Seasons Hotel Los Angeles At Beverly Hills,300,South Doheny Drive,-118.3892142,34.0729469,hotel,285,570
+15,Holiday Inn Express,11250,Santa Monica Boulevard,-118.4474043,34.0464787,hotel,160,320
+16,Beverly Laurel Motor Hotel,,,-118.3644728,34.075818,hotel,52,104
+17,Holiday Inn Express & Suites,1921,Highland Avenue,-118.3381009,34.1059331,hotel,104,208
+18,Magic Castle Hotel,,,-118.3425458,34.104501,hotel,40,80
+19,Best Western Hollywood Plaza Inn,2011,Highland Avenue,-118.3379128,34.1071961,hotel,82,164
+20,Barclay Hotel,,,-118.2473193,34.0484996,hotel,160,320
+21,Millennium Biltmore Hotel,506,South Grand Avenue,-118.2538189,34.0493003,hotel,683,1366
+22,New seoul hotel,,,-118.2902425,34.0521139,hotel,33,66
+23,Metro Plaza Hotel,701,,-118.2378903,34.058737,hotel,80,160
+24,Hilton Los Angeles/Universal City,,,-118.3583225,34.1368471,hotel,500,1000
+25,Sheraton Universal Hotel,,,-118.3599536,34.1373628,hotel,465,930
+26,Howard Johnson by Wyndham Reseda Hotel & Suites,,,-118.5353272,34.2056436,hotel,74,148
+27,Hotel Clark,426,South Hill Street,-118.2506582,34.0494201,hotel,135,270
+28,Hilton Los Angeles Airport,5711,West Century Boulevard,-118.3816525,33.9461936,hotel,1234,2468
+29,Westin Bonaventure,,,-118.255853,34.0527577,hotel,1358,2716
+30,Fairmont Century Plaza,2025,Avenue of the Stars,-118.4157229,34.0575083,hotel,400,800
+31,America Extended Stay,,,-118.5543901,34.2301379,hotel,151,302
+32,Hotel Angeleno,,,-118.4682017,34.0737523,hotel,210,420
+33,Hilgard House Hotel,,,-118.441744,34.0632015,hotel,47,94
+34,Extended Stay America,6531,Sepulveda Boulevard,-118.3951895,33.9797744,hotel,133,266
+35,Renaissance Hotel,9620,Airport Boulevard,-118.3854161,33.9488804,hotel,502,1004
+36,Kimpton Hotel Palomar Los Angeles - Beverly Hills - a Kimpton Hotel,10740,Wilshire Boulevard,-118.4374067,34.0600484,hotel,264,528
+37,Rotex Hotel,,,-118.3124934,34.052886,hotel,60,120
+38,Courtyard,21101,Ventura Boulevard,-118.5931243,34.167688,hotel,122,244
+39,Marriott Beverly Hills,1150,South Beverly Drive,-118.3956848,34.0565621,hotel,210,420
+40,Cameo Beverly Hills,1224,Beverwil Drive,-118.398548,34.0553596,hotel,138,276
+41,"Burton House, Beverly Hills, A Tribute Portfolio Hotel",1177,South Beverly Drive,-118.3961319,34.0557061,hotel,186,372
+42,Palihouse West Hollywood,8384,West 3rd Street,-118.3728268,34.0727131,hotel,95,190
+43,Best Western Royal Palace Inn & Suites,2528,South Sepulveda Boulevard,-118.4333077,34.0345402,hotel,55,110
+44,Sofitel Los Angeles at Beverly Hills,,,-118.3775707,34.0763516,hotel,295,590
+45,AAA,,California Plaza,-118.6214744,34.1861669,hotel,453,906
+46,Extended Stay America,,,-118.573981,34.1702889,hotel,240,480
+47,"818 Hotel + Pool, Ascend Hotel Collection",20157,Ventura Boulevard,-118.5730143,34.1707037,hotel,99,198
+48,Oxford Palace,745,South Oxford Avenue,-118.3082348,34.0581513,hotel,86,172
+49,Hometel Suites,3160,West 8th Street,-118.2967936,34.0575081,hotel,45,90
+50,University of Southern California Hotel,3450,Figueroa Street,-118.2810852,34.019291,hotel,240,480
+51,DoubleTree,2800,Via Cabrillo Marina,-118.2823443,33.7186199,hotel,434,868
+52,Americas Best Value Inn & Suites Los Angeles Downtown SW,4122,South Western Avenue,-118.3085826,34.0079967,hotel,41,82
+53,Crowne Plaza Los Angeles Harbor Hotel,601,South Palos Verdes Street,-118.2820473,33.7383078,hotel,244,488
+54,All Star Inn,411,South Pacific Avenue,-118.2882598,33.7402558,hotel,36,72
+55,Budget Motel,,,-118.3165498,33.9748644,hotel,30,60
+56,Best Western Los Angeles World Port Hotel,1402,West Pacific Coast Highway,-118.2831512,33.7903596,hotel,74,148
+57,Venice On The Beach Hotel,2819,Ocean Front Walk,-118.4677074,33.9803018,hotel,18,36
+58,Hotel Erwin Venice Beach,1697,Pacific Avenue,-118.4724652,33.9869513,hotel,119,238
+59,Sheraton Gateway Los Angeles Hotel,6101,West Century Boulevard,-118.3908277,33.9466336,hotel,803,1606
+60,Hyatt Regency Los Angeles International Airport,6225,West Century Boulevard,-118.3951661,33.9460765,hotel,580,1160
+61,Courtyard Los Angeles LAX/Century Boulevard,6161,West Century Boulevard,-118.3936511,33.9468182,hotel,190,380
+62,AIR Venice,5,Rose Avenue,-118.4803955,33.9948743,apartments,60,120
+63,Cadillac Hotel,,,-118.4795632,33.9939944,hotel,47,94
+64,Venice Suites,,,-118.4793365,33.9937334,hotel,31,62
+65,Ramada Marina Del Rey,3130,Washington Boulevard,-118.4493375,33.9900161,hotel,33,66
+66,The Kinney Venice Beach,737,West Washington Boulevard,-118.4538156,33.9875087,hotel,68,136
+67,Holiday Inn Express,8620,Airport Boulevard,-118.3849316,33.9590625,hotel,104,208
+68,"Avenue Hotel, Ascend Hotel Collection",321,North Vermont Avenue,-118.2922159,34.0771535,hotel,69,138
+69,Silver Lake Hotel,,,-118.2851377,34.0758478,hotel,65,130
+70,Holiday Inn Express,611,South Westlake Avenue,-118.2742329,34.0587035,hotel,160,320
+71,Economy Inn,,,-118.3060409,34.0977448,hotel,19,38
+72,Hollywood Stars Inn,,,-118.3083377,34.0984186,hotel,25,50
+73,Silver Lake Pool & Inn,4141,Santa Monica Boulevard,-118.2828186,34.0918523,hotel,54,108
+74,Hilton Garden Inn Los Angeles Airport,5249,West Century Boulevard,-118.3718355,33.9457375,hotel,282,564
+75,Travelodge Hollywood-Vermont/Sunset,,,-118.2923529,34.0968926,hotel,71,142
+76,Hotel June,8639,Lincoln Boulevard,-118.4187319,33.9587576,hotel,250,500
+77,Hollywood Historic Hotel,5162,Melrose Avenue,-118.3130427,34.0833443,apartments,62,124
+78,Dunes Inn,,Sunset location,-118.3124183,34.0984595,hotel,55,110
+79,Hollywood Panorama Suites,,,-118.3192581,34.0985509,hotel,65,130
+80,Le Bon Hotel,,Argyle Avenue,-118.3249442,34.1002077,hotel,20,40
+81,Brentwood Inn,12200,W Sunset Blvd,-118.4781766,34.0581928,hotel,25,50
+82,UCLA Guest House,,,-118.4384822,34.0745533,hotel,61,122
+83,ReTan,1732,Whitley Avenue,-118.3329471,34.1026261,hotel,60,120
+84,The Aster,1717,Vine Street,-118.3271429,34.1023896,hotel,35,70
+85,Mama Shelter (Los Angeles),,,-118.3271429,34.0996228,hotel,70,140
+86,Hollywood Orchid Suites,,,-118.3406265,34.1031213,hotel,40,80
+87,Fenix Hotel,,,-118.3444208,34.1038374,apartments,20,40
+88,Hollywood Celebrity Hotel,1775,Orchid Avenue,-118.3406067,34.1037404,hotel,38,76
+89,InterContinental Los Angeles Century City,2151,Avenue of the Stars,-118.4123424,34.0541289,hotel,361,722
+90,The MOMENT Hotel,,,-118.3514522,34.0976859,hotel,39,78
+91,Palihotel Melrose Avenue,,,-118.3629401,34.0835351,hotel,33,66
+92,Central Lake Hotel,1906,West 3rd Street,-118.2707972,34.0615821,hotel,80,160
+93,Cameo Hotel,,,-118.2716681,34.0590281,hotel,138,276
+94,The Mayfair Hotel,1256,West 7th Street,-118.2678533,34.0518233,hotel,295,590
+95,Courtyard Los Angeles Century City/Beverly Hills,10320,West Olympic Boulevard,-118.416759,34.0524699,hotel,136,272
+96,Best Western Plus La Mid-Town Hotel,603,South New Hampshire Avenue,-118.293264,34.0633447,hotel,90,180
+97,Hilton Garden Inn,2005,North Highland Avenue,-118.3377971,34.1066408,hotel,160,320
+98,Hotel Lexen,2018,Highland Avenue,-118.3371007,34.1072214,hotel,124,248
+99,BLVD,2010,Highland Avenue,-118.3368672,34.1070017,hotel,628,1256
+100,The L.A. Grand Hotel Downtown,333,Figueroa Street,-118.2555829,34.0547008,hotel,487,974
+101,Omni Los Angeles Hotel,251,Olive Street,-118.2504345,34.0525759,hotel,453,906
+102,Miyako Hotel,328,East 1st Street,-118.2402793,34.0496671,hotel,174,348
+103,La Jolla Hotel,,East 6th Street,-118.2428074,34.0410473,hotel,110,220
+104,Regal Hotel,815,East 6th Street,-118.2422218,34.0406834,hotel,20,40
+105,Rossmore Hotel,905,East 6th Street,-118.2410088,34.0399307,apartments,17,34
+106,Ellis Hotel,,East 6th Street,-118.2428443,34.040458,apartments,56,112
+107,Kawada Hotel,200,South Hill Street,-118.2477049,34.0527431,hotel,116,232
+108,Senator Hotel,729,South Main Street,-118.2525717,34.0436343,hotel,99,198
+109,St. George Hotel,,,-118.2453191,34.0491736,hotel,86,172
+110,King Edward Hotel,,,-118.247745,34.0464145,hotel,150,300
+111,Stay on Main,640,South Main Street,-118.2505789,34.044202,hotel,148,296
+112,Baltimore Hotel,,,-118.2480595,34.0460195,hotel,683,1366
+113,Figueroa Hotel,939,South Figueroa,-118.2640734,34.0455419,hotel,268,536
+114,Hilton Checkers,,,-118.2549848,34.0496123,hotel,193,386
+115,The Standard,550,South Flower Street,-118.2569835,34.0501694,hotel,207,414
+116,Stillwell,838,South Grand Avenue,-118.2584771,34.0447385,hotel,250,500
+117,The Wayfarer,813,South Flower Street,-118.2607257,34.0471253,hotel,156,312
+118,O Hotel,819,South Flower Street,-118.2608398,34.0470169,hotel,67,134
+119,Luxe Hotel,1020,South Figueroa Street,-118.264178,34.0442534,hotel,195,390
+120,Los Feliz Hotel,3101,Los Feliz Boulevard,-118.2668936,34.1246978,hotel,11,22
+121,Lulz,,,-118.3493559,34.0305619,hotel,179,358
+122,Kimpton Hotel Wilshire,,,-118.3659957,34.0638977,hotel,74,148
+123,Wilshire Crest Hotel,,,-118.3653541,34.0647306,hotel,34,68
+124,Chateau Marmont,8221,West Sunset Boulevard,-118.3684772,34.0982574,hotel,63,126
+125,Highland Park Motel,4855,York Boulevard,-118.2092738,34.1221613,hotel,26,52
+126,Best Western Plus Glendale,2911,Colorado Boulevard,-118.2284217,34.143088,hotel,49,98
+127,"Tilt Hotel Universal/Hollywood, Ascend Hotel Collection",3241,Cahuenga Boulevard West,-118.3481862,34.1287547,hotel,46,92
+128,Flamingo,,,-118.3850537,34.1813407,hotel,40,80
+129,Comfort Inn & Suites Near Universal - N. Hollywood - Burbank,6147,Lankershim Boulevard,-118.3859618,34.1825821,hotel,60,120
+130,Econo,,,-118.3656213,34.1645649,hotel,32,64
+131,Hyland Inn Van Nuys,7041,Sepulveda Boulevard,-118.4667553,34.1986769,hotel,34,68
+132,Granada Inn,,,-118.4706867,34.2793341,hotel,130,260
+133,Granada Inn,,,-118.4702988,34.2795386,hotel,115,230
+134,Courtyard Los Angeles Sherman Oaks,15433,Ventura Boulevard,-118.4695423,34.1548689,hotel,213,426
+135,Showtime Motel,,,-118.3729414,34.1412215,hotel,11,22
+136,Best Western Plus Carriage Inn,,,-118.4667427,34.1705761,hotel,178,356
+137,Best Western Plus Carriage Inn,5525,Sepulveda Boulevard,-118.4666929,34.1713592,hotel,178,356
+138,Hampton Inn & Suites,5638,Sepulveda Boulevard,-118.4657804,34.1732969,hotel,171,342
+139,Sportsmen's Lodge,12825,Ventura Boulevard,-118.41212,34.1457341,hotel,190,380
+140,Redwood Lodge Hotel,,,-118.3872815,34.2327769,hotel,105,210
+141,Redwood Lodge Motel,,,-118.3874914,34.2325916,hotel,11,22
+142,Studio City Court Yard Hotel,12933,Ventura Blvd,-118.4148937,34.1456052,hotel,66,132
+143,Holiday Inn Express,,,-118.4713715,34.2203209,hotel,160,320
+144,Hotel Indigo,899,Francisco Street,-118.2645229,34.0473293,hotel,350,700
+145,Hampton Inn & Suites,1133,Vine Street,-118.3272214,34.0917911,hotel,112,224
+146,Hotel Mariposa,12828,Riverside Drive,-118.4124322,34.1573251,hotel,94,188
