@@ -1,0 +1,35 @@
+Venue,Latitude,Longitude,Approx. Capacity,id
+1932 Pool (Exposition Park),34.01806,-118.2875,100000,V1
+Alamitos Beach,33.75,-118.16667,10000,V2
+Arena (Honda Center),33.80667,-117.8675,18000,V3
+Arena (Crypto.com),34.04306,-118.26722,18910,V4
+Arena (Intuit Dome),33.95278,-118.33611,17700,V5
+Arena (Long Beach),33.751305,-118.188812,14000,V6
+Belmont Shore,33.75889,-118.145,10000,V7
+Convention Center,34.04306,-118.26722,22870,V8
+Convention Center,33.76583,-118.18694,13500,V9
+Convention Center Lot,33.76972,-118.18889,55000,V10
+Dodger Stadium,34.07222,-118.24194,56000,V11
+Fairgrounds,34.08306,-117.75,10000,V12
+Fields,33.84,-118.26,27000,V13
+LA Memorial Coliseum,34.01417,-118.28778,77500,V14
+Marine Stadium,33.75889,-118.145,14000,V15
+Peacock Theater,34.04583,-118.25833,7100,V16
+Riviera Country Club,34.04,-118.48667,700,V17
+Rose Bowl Stadium,34.15639,-118.16333,85000,V18
+Santa Anita Park,34.13722,-118.03333,26000,V19
+Sepulveda Basin Recreation Area,34.16667,-118.46667,6000,V20
+Shotgun Center,34.04667,-118.045,3000,V21
+Softball Park,35.46667,-97.5,13000,V22
+Stadium,33.84778,-118.2575,27000,V23
+Stadium (BMO),34.01417,-118.25556,22000,V24
+Stadium (SoFi),33.95333,-118.33611,38000,V25
+Tennis Center,33.84917,-118.26611,"8,000",V26
+Trestles Beach,33.38972,-117.59333,5000,V27
+Universal Studios Lot,34.1375,-118.35833,1000,V28
+USC Sports Center (Galen),34.01667,-118.28333,10258,V29
+Velodrome (VELO Center),33.85833,-118.25833,8000,V30
+Venice Beach,33.98556,-118.45944,5000,V31
+Waterfront,33.77005,-118.193741,10000,V32
+Whitewater Center,35.46667,-97.5,2000,V33
+,,,,V34
