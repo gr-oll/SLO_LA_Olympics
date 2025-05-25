@@ -1,0 +1,107 @@
+,stop_id,stop_name,type,served_by,frequency_per_day,latitude,longitude
+0,80101,Downtown Long Beach Station,tram,801.0,1653,33.768071,-118.192921
+1,80102,Pacific Ave Station,tram,801.0,795,33.772258,-118.1937
+2,80105,Anaheim Street Station,tram,801.0,1653,33.78183,-118.189384
+3,80106,Pacific Coast Hwy Station,tram,801.0,1653,33.78909,-118.189382
+4,80107,Willow Street Station,tram,801.0,1803,33.807079,-118.189834
+5,80108,Wardlow Station,tram,801.0,1803,33.819865,-118.19609
+6,80109,Del Amo Station,tram,801.0,1814,33.848222,-118.211017
+7,80110,Artesia Station,tram,801.0,1814,33.876082,-118.222503
+8,80111,Compton Station,tram,801.0,1814,33.89749,-118.224249
+9,80112,Willowbrook - Rosa Parks Station - Metro A-Line,tram,801.0,1814,33.928048,-118.237555
+10,80113,103rd Street / Watts Towers  Station,tram,801.0,1814,33.94222,-118.243159
+11,80114,Firestone Station,tram,801.0,1814,33.959611,-118.243205
+12,80115,Florence Station,tram,801.0,1814,33.97374,-118.243271
+13,80116,Slauson Station,tram,801.0,1814,33.98876,-118.243398
+14,80117,Vernon Station,tram,801.0,1814,34.00292,-118.243303
+15,80118,Washington Station,tram,801.0,1814,34.01965,-118.243084
+16,80119,San Pedro Street Station,tram,801.0,1806,34.026807,-118.255505
+17,80120,Grand / LATTC Station,tram,801.0,1806,34.033155,-118.269333
+18,80121,Pico Station,tram,"801.0, 804.0",2652,34.040735,-118.266118
+19,80122,7th Street / Metro Center Station - Metro A & E Lines,tram,"801.0, 804.0",2664,34.04861,-118.258822
+20,80123,LATTC / Ortho Institute Station,tram,804.0,846,34.029112,-118.273603
+21,80124,Jefferson / USC Station,tram,804.0,846,34.022123,-118.278118
+22,80125,Expo Park / USC Station,tram,804.0,846,34.018227,-118.285734
+23,80126,Expo / Vermont Station,tram,804.0,846,34.018245,-118.29154
+24,80127,Expo / Western Station,tram,804.0,846,34.018331,-118.30891
+25,80128,Expo / Crenshaw E-Line Station,tram,804.0,846,34.022526,-118.335078
+26,80129,Farmdale Station,tram,804.0,846,34.023981,-118.346095
+27,80130,Expo / La Brea / Ethel Bradley Station,tram,804.0,846,34.024803,-118.355159
+28,80131,La Cienega / Jefferson Station,tram,804.0,846,34.026355,-118.37212
+29,80132,Culver City Station,tram,804.0,846,34.027896,-118.388986
+30,80133,Palms Station,tram,804.0,846,34.029323,-118.404255
+31,80134,Westwood / Rancho Park Station,tram,804.0,846,34.036816,-118.424576
+32,80135,Expo / Sepulveda Station,tram,804.0,846,34.035408,-118.434234
+33,80136,Expo / Bundy Station,tram,804.0,846,34.031705,-118.452896
+34,80137,26th Street / Bergamot Station,tram,804.0,832,34.027995,-118.46912
+35,80138,17th Street / SMC Station,tram,804.0,832,34.023155,-118.480372
+36,80139,Downtown Santa Monica Station,tram,804.0,832,34.01401,-118.491384
+37,80153,1st Street Station,tram,801.0,858,33.76874,-118.189362
+38,80154,5th Street Station,tram,801.0,858,33.773598,-118.189412
+39,80201,North Hollywood Station,metro,802.0,1044,34.168504,-118.376808
+40,80202,Universal / Studio City Station,metro,802.0,1044,34.140002,-118.362699
+41,80203,Hollywood / Highland Station,metro,802.0,1044,34.101547,-118.338549
+42,80204,Hollywood / Vine Station,metro,802.0,1044,34.10163,-118.32518
+43,80205,Hollywood / Western Station,metro,802.0,1044,34.101737,-118.308117
+44,80206,Vermont / Sunset Station,metro,802.0,1044,34.097708,-118.291756
+45,80207,Vermont / Santa Monica Station,metro,802.0,1044,34.08991,-118.29173
+46,80208,Vermont / Beverly Station,metro,802.0,1044,34.076526,-118.291686
+47,80209,Wilshire / Vermont Station,metro,"802.0, 805.0",2060,34.062701,-118.290082
+48,80210,Westlake / MacArthur Park Station,metro,"802.0, 805.0",2060,34.056368,-118.274879
+49,80211,7th Street / Metro Center Station - Metro B & D Lines,metro,"802.0, 805.0",2060,34.048634,-118.258682
+50,80212,Pershing Square Station,metro,"802.0, 805.0",2060,34.049316,-118.251259
+51,80213,Civic Center / Grand Park Station,metro,"802.0, 805.0",2060,34.0549,-118.246057
+52,80214,Union Station - Metro B & D Lines,metro,"802.0, 805.0",2060,34.056197,-118.234249
+53,80215,Wilshire / Normandie Station,metro,805.0,1016,34.061753,-118.301458
+54,80216,Wilshire / Western Station,metro,805.0,1016,34.061689,-118.308756
+55,80301,Redondo Beach Station,tram,807.0,772,33.89464,-118.369196
+56,80302,Douglas Station,tram,807.0,772,33.905299,-118.383113
+57,80303,El Segundo Station,tram,807.0,772,33.916063,-118.386539
+58,80304,Mariposa Station,tram,807.0,772,33.9232,-118.387572
+59,80305,Aviation / Imperial Station,tram,803.0,775,33.929621,-118.377134
+60,80306,Hawthorne / Lennox Station,tram,803.0,775,33.933408,-118.351602
+61,80307,Crenshaw C-Line Station,tram,803.0,775,33.925201,-118.32655
+62,80308,Vermont / Athens Station,tram,803.0,775,33.928683,-118.291733
+63,80309,Harbor Freeway Station,tram,803.0,775,33.928714,-118.2811
+64,80310,Avalon Station,tram,803.0,775,33.927465,-118.265217
+65,80311,Willowbrook - Rosa Parks Station - Metro C-Line,tram,803.0,780,33.928258,-118.238052
+66,80312,Long Beach Blvd Station,tram,803.0,780,33.92488,-118.209945
+67,80313,Lakewood Blvd Station,tram,803.0,780,33.91307,-118.1406
+68,80314,Norwalk Station,tram,803.0,780,33.914033,-118.104717
+69,80401,Atlantic Station,tram,804.0,838,34.033398,-118.154469
+70,80402,East LA Civic Center Station,tram,804.0,838,34.033364,-118.161206
+71,80403,Maravilla Station,tram,804.0,838,34.033319,-118.16814
+72,80404,Indiana Station,tram,804.0,838,34.0343,-118.192182
+73,80405,Soto Station,tram,804.0,838,34.043747,-118.210061
+74,80406,Mariachi Plaza / Boyle Heights Station,tram,804.0,838,34.047215,-118.219648
+75,80407,Pico / Aliso Station,tram,804.0,838,34.047634,-118.22594
+76,80409,Union Station - Metro A-Line,tram,801.0,1822,34.056061,-118.234759
+77,80410,Chinatown Station,tram,801.0,1764,34.063861,-118.23584
+78,80411,Lincoln Heights / Cypress Park Station,tram,801.0,1764,34.080949,-118.220429
+79,80412,Heritage Square / Arroyo Station,tram,801.0,1764,34.087227,-118.213213
+80,80413,Southwest Museum Station,tram,801.0,1764,34.098243,-118.206712
+81,80414,Highland Park Station,tram,801.0,1764,34.111179,-118.192606
+82,80415,South Pasadena Station,tram,801.0,1764,34.115186,-118.157886
+83,80416,Fillmore Station,tram,801.0,1764,34.133521,-118.148126
+84,80417,Del Mar Station,tram,801.0,1764,34.14191,-118.148214
+85,80418,Memorial Park Station,tram,801.0,1764,34.148356,-118.147512
+86,80419,Lake Station,tram,801.0,1764,34.151806,-118.13139
+87,80420,Allen Station,tram,801.0,1764,34.152417,-118.114348
+88,80421,Sierra Madre Villa Station,tram,801.0,1764,34.147752,-118.081212
+89,80422,Arcadia Station,tram,801.0,1764,34.14286,-118.029199
+90,80423,Monrovia Station,tram,801.0,1764,34.133155,-118.003473
+91,80424,Duarte / City of Hope Station,tram,801.0,1740,34.132518,-117.96768
+92,80425,Irwindale Station,tram,801.0,1740,34.129048,-117.932506
+93,80426,Azusa Downtown Station,tram,801.0,1740,34.135863,-117.906631
+94,80427,APU / Citrus College Station,tram,801.0,1740,34.136814,-117.891636
+95,80701,Aviation / Century Station,tram,"803.0, 807.0",1547,33.94557205,-118.378683
+96,80703,Westchester / Veterans Station,tram,807.0,772,33.96203144,-118.374378
+97,80704,Downtown Inglewood Station,tram,807.0,772,33.96715635,-118.3514966
+98,80705,Fairview Heights Station,tram,807.0,772,33.97525155,-118.3360716
+99,80706,Hyde Park Station,tram,807.0,772,33.98818653,-118.3308158
+100,80707,Leimert Park Station,tram,807.0,772,34.00390927,-118.3320162
+101,80708,Martin Luther King Jr Station,tram,807.0,772,34.00956339,-118.3353594
+102,80709,Expo / Crenshaw K-Line Station,tram,807.0,772,34.02215554,-118.3348508
+103,81401,Grand Ave Arts / Bunker Hill Station,tram,"801.0, 804.0",2664,34.05472448,-118.2515307
+104,81402,Historic Broadway Station,tram,"801.0, 804.0",2664,34.05215607,-118.2463211
+105,81403,Little Tokyo / Arts District Station,tram,"801.0, 804.0",2667,34.04884524,-118.2387567
